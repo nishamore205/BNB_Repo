@@ -1,1 +1,3 @@
-Hello java here
+Class Hello{
+
+}
