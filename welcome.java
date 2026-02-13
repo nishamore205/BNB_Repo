@@ -1,1 +1,3 @@
-Hello welcome to github
+Class welcome{
+a=10;
+}
