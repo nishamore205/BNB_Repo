@@ -5,4 +5,9 @@ Class Hello{
   int i=0;
   int n=10;
 
+//task 101
+  m1(){
+
+       }
+
 }
