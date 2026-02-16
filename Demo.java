@@ -1,12 +1,11 @@
 {
-Hello Demo file is here
-<<<<<<< Updated upstream
-Hello Demo
+"Hello Demo file is here".
+
+"Hello Demo"
 
 //Task second
 Demo2{
 System.out.prinltn("Hello **")
-=======
 
 Hello Demo()
 
@@ -15,6 +14,6 @@ Hello Demo()
 Demo1
 {
 
->>>>>>> Stashed changes
+>Stashed changes
 
 }
