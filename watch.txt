@@ -1,4 +1,8 @@
 Class Nisha{
+//Task 3:
+
+float f=0.75;
+
 
 ///Task 1:
 "System.out.println("Hii");
