@@ -2,4 +2,5 @@ Class terraform {
 
 int a=50;
 int b=20;
+float f =0.25;
 }
