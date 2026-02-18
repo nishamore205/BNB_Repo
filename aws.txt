@@ -8,14 +8,17 @@ int c=67;
 //Task 101
 m1()
 {
-
+************;
 }
 
 
+<<<<<<< Updated upstream
 //Task 102
 m2()
 {
 ##########;
 }
 
+=======
+>>>>>>> Stashed changes
 }
