@@ -1,13 +1,10 @@
-Class Hello{
-//task 120 changes
+  Class Hello{
+    int a=10;  
+    int b=20;
+    int c=30;
 
-  int a=10;
-  int i=0;
-  int n=10;
 
-//task 101
-  m1(){
 
-       }
+
 
 }
