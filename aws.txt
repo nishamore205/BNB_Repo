@@ -1,0 +1,14 @@
+Class aws {
+
+int a=50;
+int b=45;
+int c=67;
+
+
+//Task 101
+m1()
+{
+
+}
+
+}
