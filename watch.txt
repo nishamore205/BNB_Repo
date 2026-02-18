@@ -1,0 +1,6 @@
+Class Nisha{
+
+///Task 1:
+"System.out.println("Hii");
+
+}
