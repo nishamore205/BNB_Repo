@@ -2,9 +2,6 @@ Class terraform {
 
 int a=50;
 int b=20;
-<<<<<<< HEAD
 float f =0.25;
-=======
 char s='N';
->>>>>>> 43da1351caeb7c11e7d4db264a9e8bc056520d83
 }
