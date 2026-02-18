@@ -12,12 +12,21 @@ m1()
 }
 
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 //Task 102
 m2()
 {
-##########;
+###########;
+}
+ 
+
+
 }
 
+<<<<<<< Updated upstream
 
 //Task 103
 m3()
@@ -26,3 +35,5 @@ m3()
 }
 
 }
+=======
+>>>>>>> Stashed changes
